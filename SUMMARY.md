@@ -14,7 +14,3 @@
 
 ## 指南文档
 
-* [游戏选购指南](https://www.bilibili.com/read/cv2068789)
-* [集锦投稿规范与录制指南](http://submit.atsiege.com/)
-* [Teamspeak语音服务器](https://www.bilibili.com/read/cv88344)
-
